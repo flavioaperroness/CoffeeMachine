@@ -1,2 +1,3 @@
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/92367560-9734-4770-936a-4752072785b0" /># CoffeeMachine
+<img width="1166" height="1602" alt="61598cbc-1b2f-44af-986c-571cc177ffab" src="https://github.com/user-attachments/assets/c997350c-1dfd-4cf5-a6c8-c41ea3794784" />
+
 
